@@ -1,0 +1,6 @@
+{
+  "name": "GoRide - Hyper-Speed Urban Mobility",
+  "description": "Hyper-speed urban mobility built for Indian metros with instant captain matching, EV fleets, zero surge lock, and live telematics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
