@@ -259,6 +259,7 @@ export const Footer: React.FC<FooterProps> = ({ onSelectTab, onSelectCity }) => 
           </div>
         </div>
       </div>
+      <div className="flex justify-between border-t pt-4 text-xs"><span>© 2026 GoRide Mobility. All rights reserved.</span><span>Created by Raj Joshi</span></div>
     </footer>
   );
 };
